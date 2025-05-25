@@ -1,4 +1,12 @@
 
+###### <p align="center"> by Jan Ritt </p>
+
+## Angabe:
+  - [MongoDB Blogverwaltung](https://github.com/IxI-Enki/DbiUebung-007/blob/master/MongoDB_Aufgabenstellung_Blog_Abendschule.pdf)
+  - [MongoDB Queries](https://github.com/IxI-Enki/DbiUebung-007/blob/master/MongoDB_Aufgabenstellung_Blog2_Queries.pdf)
+
+---
+
 # Part 1
 
 - ### MongoDB-Datenbank erstellen
